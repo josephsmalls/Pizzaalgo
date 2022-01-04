@@ -3,3 +3,4 @@
 3. decide number of pizzas
 4. decide delivery or pick up
 5. decide cash or credit
+6. eat pizza
