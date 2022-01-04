@@ -1,6 +1,13 @@
-1. decide what you want to eat
-2. decide toppings
-3. decide number of pizzas
-4. decide delivery or pick up
-5. decide cash or credit
-6. eat pizza
+1. decide what pizza restraunt to buy from
+2. decide what you want off of menu
+3. decide toppings and souce
+4. decide number of pizzas
+5. decide on drink
+6. decide on dessert
+7. decide delivery or pick up
+8. decide cash or credit
+9. have to wait
+10. meet pizza guy at door
+11. pay for said pizza
+12. make plate with 
+13. eat pizza
